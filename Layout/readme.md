@@ -117,6 +117,7 @@
 </LinearLayout>
 ```
 - `效果截图`
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/Layout/photos/LinearLayout.jpg)
 # `TableLayout:`
 - `代码展示:`
