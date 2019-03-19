@@ -1,5 +1,8 @@
 实验二  Layout
 =====
+`主界面`:
+--------
+![效果](https://github.com/NickLYD/NickRep/blob/master/Layout/photos/Layout.jpg)
 # `LinearLayout:`
 - `代码展示:`
 ```javascript
