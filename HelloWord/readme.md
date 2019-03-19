@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 `效果截图`
 -----------
-![效果](https://github.com/NickLYD/NickRep/tree/master/HelloWorld/photos/HelloWorld.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/HelloWord/photos/HelloWorld.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/tree/master/HelloWorld/photos/HelloWorldTest.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/HelloWord/photos/HelloWorldTest.jpg)
 
