@@ -1,5 +1,8 @@
 实验三  UIComponent
 =====
+`主界面`:
+--------
+![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/UIComponent.jpg)
 # `SimpleAdapter:`
 - `SimpleAdapter.java代码展示:`
 ```javascript
@@ -89,6 +92,7 @@ public class SimpleAdapter extends AppCompatActivity {
 
 ```
 - `效果截图`
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/SimpleAdapter.jpg)
 # `AlterDialog:`
 - `AlterDialogTest.java代码展示:`
@@ -144,6 +148,7 @@ public class AlertDialogTest extends AppCompatActivity {
 
 ```
 - `效果截图`
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/AlterDialogTest.jpg)
 # `XMLMenu:`
 - `XML_Menu.java代码展示:`
@@ -264,9 +269,13 @@ public class XML_Menu extends AppCompatActivity {
 </android.support.constraint.ConstraintLayout>
 ```
 - `效果截图`
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/XMLMenu1.jpg)
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/XMLMenu2.jpg)
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/XMLMenu3.jpg)
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/XMLMenu4.jpg)
 # `ActionMode:`
 - `ActionModeTest.java代码展示:`
@@ -411,4 +420,5 @@ public class ActionModeTest extends AppCompatActivity {
 
 ```
 - `效果截图`
+
 ![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/ActionMode.jpg)
