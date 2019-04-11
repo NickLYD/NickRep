@@ -11,3 +11,8 @@
 实验三  UIComponent
 =====
 [实验报告](https://github.com/NickLYD/NickRep/blob/master/UIComponent/readme.md)
+
+
+实验四  PreferenceFragment
+=====
+[实验报告](https://github.com/NickLYD/NickRep/blob/master/PreferenceFragment/readme.md)
