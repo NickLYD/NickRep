@@ -16,3 +16,7 @@
 实验四  PreferenceFragment
 =====
 [实验报告](https://github.com/NickLYD/NickRep/blob/master/PreferenceFragment/readme.md)
+
+实验五  IntentDemo
+=====
+[实验报告](https://github.com/NickLYD/NickRep/blob/master/IntentDemo/readme.md)
