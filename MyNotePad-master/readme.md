@@ -1300,3 +1300,7 @@ public class NoteOutput extends AppCompatActivity {
 ![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output4.jpg)
 
 ![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output5.jpg)
+
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output6.jpg)
+
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output7.jpg)
