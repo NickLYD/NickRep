@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+    <item android:title="记事本分类">
+        <menu>
+            <item
+                android:id="@+id/nav_all"
+                android:icon="@color/colorBlack"
+                android:title="全体" />
+            <item
+                android:id="@+id/nav_joy"
+                android:icon="@color/colorWhite"
+                android:title="娱乐" />
+            <item
+                android:id="@+id/nav_job"
+                android:icon="@color/colorYellow"
+                android:title="工作" />
+            <item
+                android:id="@+id/nav_study"
+                android:icon="@color/colorBlue"
+                android:title="学习" />
+            <item
+                android:id="@+id/nav_communication"
+                android:icon="@color/colorGreen"
+                android:title="社交" />
+            <item
+                android:id="@+id/nav_life"
+                android:icon="@color/colorRed"
+                android:title="生活" />
+        </menu>
+    </item>
+
+</menu>
