@@ -741,15 +741,15 @@ public class NoteColor extends Activity {
 ```
  `效果展示`
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/color0.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/color0.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/color1.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/color1.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/color2.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/color2.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/color3.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/color3.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/color4.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/color4.jpg)
 #### 笔记分类
 1> 该功能的实现主要基于DrawLayout和Navigation,在上文也有提到，主要涉及的布局文件为listview.xml（上文提过，这里再贴一次，如果已在这里插入图片描述实现上文的布局文件可以跳过该步骤）。
 ```javascript
@@ -987,27 +987,27 @@ public void onQueryTextChange(int newText){
  `效果展示`
 “全体”显示全部笔记
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/navigation1.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/navigation1.jpg)
 
 娱乐标签的笔记分类：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/navigation2.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/navigation2.jpg)
 
 工作标签的笔记分类：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/navigation3.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/navigation3.jpg)
 
 学习标签的笔记分类：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/navigation4.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/navigation4.jpg)
 
 社交标签的笔记分类：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/navigation5.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/navigation5.jpg)
 
 生活标签的笔记分类：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/navigation6.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/navigation6.jpg)
 
 #### 排序
 1> 排序的实现比较简单，只要把Cursor的排序参数变换下就可以了。首先在菜单文件list_options_menu.xml中设计菜单布局。
@@ -1090,19 +1090,19 @@ public void onQueryTextChange(int newText){
 
  `效果展示`
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/sort1.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/sort1.jpg)
 
 按创建时间排序：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/sort2.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/sort2.jpg)
 
 按修改时间排序：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/sort3.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/sort3.jpg)
 
 按颜色排序：
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/sort4.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/sort4.jpg)
 
 #### 导出笔记
 1> 先在菜单文件editor_options_menu.xml中添加一个导出笔记的选项。
@@ -1291,10 +1291,10 @@ public class NoteOutput extends AppCompatActivity {
 ```
  `效果展示`
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/output1.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output1.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/output2.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output2.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/output3.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output3.jpg)
 
-![效果](https://github.com/NickLYD/NickRep/blob/master/UIComponent/photos/output4.jpg)
+![效果](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/photos/output4.jpg)
