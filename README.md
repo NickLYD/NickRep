@@ -20,3 +20,7 @@
 实验五  IntentDemo
 =====
 [实验报告](https://github.com/NickLYD/NickRep/blob/master/IntentDemo/readme.md)
+
+期中实验  NotePad
+=====
+[实验报告](https://github.com/NickLYD/NickRep/blob/master/MyNotePad-master/readme.md)
